@@ -1,6 +1,6 @@
 # vuepc
-修改
-> A Vue.js project
+
+> A Vue.js project change
 
 ## Build Setup
 
